@@ -127,5 +127,9 @@
     <text name="OrderList">Order List</text>
     <text name="OrderDelete">Delete Order</text>
     <text name="ShoppingCartFullControl">Full Control of Shopping Cart</text>
+    <text name="UserCreation" value="User Creation" />
+    <text name="UserUpdating" value="User Updating" />
+    <text name="UserDeleting" value="User Deleting" />
+    <text name="UserList" value="User List" />
   </texts>
 </localizationDictionary>
