@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="ar">
+  <text name="ProductCreate">إنشاء منتج</text>
+  <text name="ProductUpdate">تحديث المنتج</text>
+  <text name="ProductDelete">حذف المنتج</text>
+  <text name="ProductGet">عرض المنتج</text>
+  <text name="ProductList">قائمة المنتجات</text>
+  <text name="OrderCreate">إنشاء طلب</text>
+  <text name="OrderGet">عرض الطلب</text>
+  <text name="OrderList">قائمة الطلبات</text>
+  <text name="OrderDelete">حذف الطلب</text>
+  <text name="ShoppingCartFullControl">التحكم الكامل في سلة التسوق</text>
+</localizationDictionary>
+
